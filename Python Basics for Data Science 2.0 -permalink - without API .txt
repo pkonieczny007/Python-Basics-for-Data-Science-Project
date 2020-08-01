@@ -1,0 +1,6 @@
+
+Link to Python Basics for DATA SCIENCE 2.0
+https://eu-gb.dataplatform.cloud.ibm.com/analytics/notebooks/v2/52947982-638f-492f-99d6-a304bd66840f/view?access_token=a4ba6ccfc9e46ecf742ad5985c8ea7ae635581785cdf6d7b4e60fbf8e1919af6
+
+
+https://github.com/pkonieczny007/Python-Basics-for-Data-Science-Project.git
